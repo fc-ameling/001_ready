@@ -23,9 +23,7 @@
 > ssh-keygen -t rsa -b 4096 -C ""DEINE@EMAIL.DE"
 > 
 
-- [ ]  Einen neuen SSH-Schlüssel zum GitHub-Konto hinzufügen
 
-![](img/Add%20new%20SSH%20keys.png)
 
 
 - [ ] Ein Repositorys forken  
