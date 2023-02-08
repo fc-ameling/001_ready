@@ -21,15 +21,14 @@
 **ssh-keygen -t ed25519 -C "DEINE@EMAIL.DE"**
 > Falls dein System dafür zu alt ist:
 > ssh-keygen -t rsa -b 4096 -C ""DEINE@EMAIL.DE"
-> 
 
+- [ ]  Einen neuen SSH-Schlüssel zum GitHub-Konto hinzufügen
 
-
+![](img/Add%20new%20SSH%20keys.png)
 
 - [ ] Ein Repositorys forken  
 
   ![](img/fork.png)
-- 
 
 - [ ] Ein Repository klonen  
 
