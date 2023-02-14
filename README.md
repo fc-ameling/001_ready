@@ -3,7 +3,7 @@
 
 - [ ] [Install IntelliJ IDEA](https://www.jetbrains.com/de-de/idea/download/#section=windows) -  IntelliJ IDEA Ultimate herunterladen
 
-![](img/Laden Sie IntelliJ IDEA herunter.png)
+![](img/laden_sie_intelliJ_IDEA_herunter.png)
 
 
 - [ ] [GitHub](https://github.com/signup?ref_cta=Sign+up&ref_loc=header+logged+out&ref_page=%2F&source=header-home) -  GitHub account erstellen
@@ -13,7 +13,7 @@
 
 - [ ] [Git Bash](https://gitforwindows.org/) -  Git Bash installieren
 
-![](img/Git for Windows.png)
+![](img/git_for_windows.png)
 
 
 - [ ]  Einen neuen SSH-Schlüssel erzeugen
