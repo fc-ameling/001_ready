@@ -42,3 +42,26 @@ oder
 
 ![](img/clone2.png)
 
+- [ ] Vorbereiten des Windows-Betriebssystems für die Docker-Installation.
+
+Für Enterprise- und Pro-Versionen von Windows wird die Virtualisierung basierend auf dem Hyper-V-Hypervisor konfiguriert.
+
+![](img/hyper_v.png)
+
+Denken Sie daran, das System neu zu starten, damit die Änderungen wirksam werden.
+
+- [ ] [Docker](https://www.docker.com/products/docker-desktop/) - Docker Desktop herunterladen
+
+und installieren
+
+![](img/installing_docker_desktop.png)
+![](img/installing_docker_2.png)
+
+Docker Desktop starten
+
+![](img/docker_3.png)
+
+
+
+
+
